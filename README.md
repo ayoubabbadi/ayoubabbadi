@@ -39,4 +39,4 @@ I believe the best way to learn is to teach. I'm currently building a series of 
 ###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-abbadi-87b07a362?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSphII5YBRsG6%2B0GyH3SX5g%3D%3D)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orpheus.aa?igsh=MXBkbGRxdTh2enpjMA==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayoubabbadi80/)
