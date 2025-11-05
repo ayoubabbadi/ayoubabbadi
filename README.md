@@ -29,7 +29,7 @@ Here are the technologies I work with.
 
 I believe the best way to learn is by building and practicing. Here are some of the guides and challenges I've created for other developers.
 
-* **[Decathlon CSS Challenge](https://github.com/ayoubabbadi/Decathlon-CSS-Challenge)**: A portfolio-level challenge to recreate a complex store landing page using CSS Grid, Flexbox, and modern layout techniques.
+* **[Decathlon CSS Challenge](https://github.com/ayoubabbadi/Decathlon-Landing-Page-CSS-Challenge)**: A portfolio-level challenge to recreate a complex store landing page using CSS Grid, Flexbox, and modern layout techniques.
 * **[CSS Animation Challenges](https://github.com/ayoubabbadi/CSS-Animation-Challenges)**: A hands-on practice platform. Read the solution code, predict the animation, and then run it to test your CSS knowledge.
 * **[React Learning Guide](https://github.com/ayoubabbadi/learn-react)**: A complete, single-file guide to React, from components and props to advanced hooks like `useContext`.
 * **[C Language Learning Guide](https://github.com/ayoubabbadi/C-Learning-Guide)**: A comprehensive, `leran.c`-style guide for C, from "Hello World" to advanced topics like simulating OOP.
