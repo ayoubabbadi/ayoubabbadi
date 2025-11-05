@@ -51,7 +51,7 @@ I believe the best way to learn is by building and practicing. Here are some of 
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayoub-abbadi-87b07a362">
