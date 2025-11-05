@@ -1,8 +1,6 @@
 ### Hi, I'm Ayoub 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Experienced+Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/Saviru/Animated-Profile-Banner-Generator/main/Test/Sample.svg" alt="Animated Banner" width="100%" />
 
 ---
 
@@ -21,7 +19,7 @@ Here are the technologies I work with.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github&theme=dark" />
   </a>
 </p>
 
@@ -37,16 +35,23 @@ I believe the best way to learn is by building and practicing. Here are some of 
 * **[C Language Learning Guide](https://github.com/ayoubabbadi/C-Learning-Guide)**: A comprehensive, `leran.c`-style guide for C, from "Hello World" to advanced topics like simulating OOP.
 * **[CSS Backgrounds Showcase](https://github.com/ayoubabbadi/CSS-Backgrounds-Showcase)**: A technical reference and challenge project for mastering various CSS background properties.
 
+### 🎨 Project Previews
+
+Here are some animated previews of my projects.
+
+<p align="center">
+  <img src="assets/decathlon-css-challenge.gif" alt="Decathlon CSS Challenge" />
+</p>
+
 *(Note: Please update the links above to your correct repository URLs!)*
 
 ---
 
 ### 📈 My GitHub Stats
 
-[![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoubabbadi&show_icons=true&theme=dark&hide_border=true)](https://github.com/ayoubabbadi)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoubabbadi/ayoubabbadi/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
 </p>
 
 ---
