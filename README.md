@@ -52,5 +52,5 @@ I believe the best way to learn is by building. Here are some of the guides and 
 </div>
 
 <div align="center">
-<img src="https" alt="Quote Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Clean+Code+%26+Creative+Solutions;From+El+Jadida%2C+Morocco" alt="Quote Typing" />
 </div>
