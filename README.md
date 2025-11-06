@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFBF00,100:000000&text=Hi!%20Welcome%20to%20My%20GitHub!&fontAlign=30&fontAlignY=30&fontColor=ffffff&fontSize=30&desc=Ayoub+%7C+Where+Creative+Solutions+Meet+Clean+Code&descAlign=70&descAlignY=50&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFBF00,100:000000&text=Hi!%20Welcome%20to%20My%20GitHub!&fontAlign=30&fontAlignY=30&fontColor=ffffff&fontSize=30&desc=Ayoub+%7C+Where+Creative+Solutions+Meet+Clean+Code&descAlign=75&descAlignY=50&descSize=15" width="100%" />
 </p>
 
 ##  About Me
@@ -34,10 +34,10 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 
 I believe the best way to learn is by building. Here are some of the guides and challenges I've created for other developers.
 
-* **[Decathlon CSS Challenge](https://github.com/ayoubabbadi/Decathlon-CSS-Challenge)**: A portfolio-level challenge to recreate a complex store landing page using CSS Grid and Flexbox.
+* **[Decathlon CSS Challenge](https://github.com/ayoubabbadi/Decathlon-Landing-Page-CSS-Challenge)**: A portfolio-level challenge to recreate a complex store landing page using CSS Grid and Flexbox.
 * **[CSS Animation Challenges](https://github.com/ayoubabbadi/CSS-Animation-Challenges)**: A hands-on practice platform to test your CSS animation and transition skills.
 * **[React Learning Guide](https://github.com/ayoubabbadi/learn-react)**: A complete, single-file guide to React, from components and props to advanced hooks.
-* **[C Language Learning Guide](https://github.com/ayoubabbadi/C-Learning-Guide)**: A comprehensive guide to C, from "Hello World" to advanced topics like simulating OOP.
+* **[C Language Learning Guide](https://github.com/ayoubabbadi/c-learning-guide)**: A comprehensive guide to C, from "Hello World" to advanced topics like simulating OOP.
 
 *(Note: Please update the links above to your correct repository URLs!)*
 
