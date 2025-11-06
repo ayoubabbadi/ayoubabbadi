@@ -70,9 +70,8 @@ I believe the best way to learn is by building. Here are some of the guides and 
   <a href="https://www.instagram.com/ayoubabbadi80/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="httpsall.stats.ayoubabbadi%3Flabel=GitHub&amp;style=for-the-badge&amp;color=333" />
+  <img src="https://img.shields.io/github/followers/ayoubabbadi?label=GitHub&amp;style=for-the-badge&amp;color=333" />
 </div>
-
 ---
 
 <div align="center">
