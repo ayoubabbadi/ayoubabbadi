@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFBF00,100:000000&text=Welcome%20to%20My%20GitHub!&fontAlign=30&fontAlignY=30&fontColor=ffffff&fontSize=30&desc=Precision+in+Code,+Excellence+in+Execution.&descAlign=80&descAlignY=50&descSize=15" width="100%" />
 </p>
----
 
-## 🧩 About Me
+##  About Me
 
 I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
 
@@ -12,18 +11,16 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
 </div>
----
 
-## 💼 Core Competencies
+##  Core Competencies
 
-- **🌐 Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
-- **⚙️ Back-End Development (Learning):** Node.js
-- **📚 General Programming:** Python, C
-- **🛠️ Tools & Version Control:** Git & GitHub, VS Code
+- **  Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
+- ** Back-End Development (Learning):** Node.js
+- ** General Programming:** Python, C
+- ** Tools & Version Control:** Git & GitHub, VS Code
 
----
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +30,7 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 
 ---
 
-## 🚀 My Guides & Challenges
+##  My Guides & Challenges
 
 I believe the best way to learn is by building. Here are some of the guides and challenges I've created for other developers.
 
@@ -46,18 +43,16 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ---
 
-## 📈 GitHub Insights
+##  GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubabbadi&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox_dark&amp;hide_border=true" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="48%"  />
 </div>
 
 ---
 
-## 📊 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubabbadi&amp;bg_color=0d1117&amp;color=FFBF00&amp;line=FFD700&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
@@ -65,7 +60,7 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ayoub-abbadi-87b07a362">
