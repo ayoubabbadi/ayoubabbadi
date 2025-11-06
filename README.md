@@ -14,10 +14,10 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 
 ##  Core Competencies
 
-- **  Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
-- ** Back-End Development (Learning):** Node.js
-- ** General Programming:** Python, C
-- ** Tools & Version Control:** Git & GitHub, VS Code
+- **Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
+- **Back-End Development (Learning):** Node.js
+- **General Programming:** Python, C
+- **Tools & Version Control:** Git & GitHub, VS Code
 
 
 ##  My Tech Stack
@@ -44,11 +44,13 @@ I believe the best way to learn is by building. Here are some of the guides and 
 ---
 
 ##  GitHub Insights
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox_dark&amp;hide_border=true" width="48%" valign="top" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox&amp;hide_border=true" width="48%" valign="top" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
 </div>
-
 ---
 
 ##  Contribution Graph
@@ -68,7 +70,7 @@ I believe the best way to learn is by building. Here are some of the guides and 
   <a href="https://www.instagram.com/ayoubabbadi80/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="httpsall.stats.username%3Flabel=GitHub&amp;style=for-the-badge&amp;color=333" />
+  <img src="httpsall.stats.ayoubabbadi%3Flabel=GitHub&amp;style=for-the-badge&amp;color=333" />
 </div>
 
 ---
