@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFBF00,100:000000&text=Welcome%20to%20My%20GitHub!&fontAlign=30&fontAlignY=30&fontColor=ffffff&fontSize=30&desc=Precision+in+Code,+Excellence+in+Execution.&descAlign=80&descAlignY=50&descSize=15" width="100%" />
@@ -12,7 +9,9 @@
 I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
 
 > I'm currently expanding my skills into the back-end with **Node.js** and am open to collaborating on interesting React or Node.js projects.
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
+</div>
 ---
 
 ## 💼 Core Competencies
