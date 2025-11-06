@@ -44,15 +44,9 @@ I believe the best way to learn is by building. Here are some of the guides and 
 ---
 
 ##  GitHub Insights
-
-## 📈 GitHub Insights
-
-## 📈 GitHub Insights
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubabbadi&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;count_private=true" width="33%" valign="top" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox_dark&amp;hide_border=true" width="33%" valign="top" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="33%" valign="top" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox_dark&amp;hide_border=true" width="48%" valign="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
 </div>
 
 ---
