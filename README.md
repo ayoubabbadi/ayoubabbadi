@@ -32,7 +32,7 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ##  Notable Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&amp;theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&amp;theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
 </div>
 
 ## GitHub Insights
