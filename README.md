@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:FFBF00,100:333333&text=Welcome%20to%20My%20GitHub!&fontAlign=40&fontColor=ffffff&fontSize=30&desc=Building+Clean+Code+%26+Creative+Solutions&descAlign=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=160&amp;color=0:FFBF00,100:333333&amp;text=Welcome%20to%20My%20GitHub!&amp;fontAlign=40&amp;fontColor=ffffff&amp;fontSize=30&amp;desc=Building+Clean+Code+%26+Creative+Solutions&amp;descAlign=60&amp;descSize=16" />
 </p>
 
 ---
@@ -27,7 +27,6 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 
 ## 🛠️ My Tech Stack
 
-(I've used the more modern `skillicons.dev` here as it looks cleaner and isn't tied to the old theme.)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github" />
@@ -51,7 +50,6 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ## 📈 GitHub Insights
 
-(Changed `theme=radical` to `theme=gruvbox` for a new, warmer look)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayoubabbadi&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox_dark&amp;hide_border=true" width="48%" />
@@ -63,7 +61,6 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ## 📊 Contribution Graph
 
-(Changed the graph line colors from cyan/blue to amber/gold)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubabbadi&amp;bg_color=0d1117&amp;color=FFBF00&amp;line=FFD700&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
 </div>
@@ -72,7 +69,6 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ## 📬 Let's Connect
 
-(Using the standard, professional brand-color badges instead of themed ones)
 <div align="center">
   <a href="https://www.linkedin.com/in/ayoub-abbadi-87b07a362">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,12 +76,11 @@ I believe the best way to learn is by building. Here are some of the guides and 
   <a href="https://www.instagram.com/ayoubabbadi80/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/github/followers/ayoubabbadi?label=GitHub&amp;style=for-the-badge&amp;color=333" />
+  <img src="httpsall.stats.username%3Flabel=GitHub&amp;style=for-the-badge&amp;color=333" />
 </div>
 
 ---
 
-(Changed footer typing color to match the new theme)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Clean+Code+%26+Creative+Solutions;From+El+Jadida%2C+Morocco" alt="Quote Typing" />
 </div>
