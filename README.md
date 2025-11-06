@@ -5,7 +5,7 @@
 ## About Me
 I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
 > I'm currently expanding my skills into the back-end with **Node.js** and am open to collaborating on interesting React or Node.js projects.
-* You can reach me at: [**ayoubabbadi80@gmail.com**](mailto:ayoubabbadi80@gmail.com)
+> You can reach me at: [**ayoubabbadi80@gmail.com**](mailto:ayoubabbadi80@gmail.com)
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
 </div>
