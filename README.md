@@ -5,6 +5,7 @@
 ## About Me
 I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
 > I'm currently expanding my skills into the back-end with **Node.js** and am open to collaborating on interesting React or Node.js projects.
+* You can reach me at: [**ayoubabbadi80@gmail.com**](mailto:ayoubabbadi80@gmail.com)
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
 </div>
@@ -29,6 +30,11 @@ I believe the best way to learn is by building. Here are some of the guides and 
 * **[React Learning Guide](https://github.com/ayoubabbadi/learn-react)**: A complete, single-file guide to React, from components and props to advanced hooks.
 * **[C Language Learning Guide](https://github.com/ayoubabbadi/c-learning-guide)**: A comprehensive guide to C, from "Hello World" to advanced topics like simulating OOP.
 
+##  Notable Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&amp;theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6" />
+</div>
+
 ## GitHub Insights
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox&amp;hide_border=true" width="48%" valign="top" />
@@ -43,10 +49,13 @@ I believe the best way to learn is by building. Here are some of the guides and 
 ## Let's Connect
 <div align="center">
 <a href="https://www.linkedin.com/in/ayoub-abbadi-87b07a362">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayoubabbadi80@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ayoubabbadi80/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <img src="https://img.shields.io/github/followers/ayoubabbadi?label=GitHub&amp;style=for-the-badge&amp;color=333" />
 </div>
