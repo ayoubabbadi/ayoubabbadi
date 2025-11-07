@@ -37,13 +37,13 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ## GitHub Insights
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox&amp;hide_border=true" width="48%" valign="top" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox&amp;hide_border=true&amp;cache_seconds=7200" width="48%" valign="top" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6&amp;cache_seconds=7200" width="48%" valign="top" />
 </div>
 
 ## Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubabbadi&amp;bg_color=0d1117&amp;color=FFBF00&amp;line=FFD700&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubabbadi&amp;bg_color=0d1117&amp;color=FFBF00&amp;line=FFD700&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16&amp;cache_seconds=7200" width="98%" />
 </div>
 
 ## Let's Connect
