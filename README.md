@@ -37,7 +37,7 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ## GitHub Insights
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubabbadi&amp;theme=gruvbox&amp;hide_border=true&amp;cache_seconds=7200" width="48%" valign="top" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=ayoubabbadi&amp;theme=gruvbox&amp;hide_border=true&amp;cache_seconds=7200" width="48%" valign="top" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabbadi&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6&amp;cache_seconds=7200" width="48%" valign="top" />
 </div>
 
