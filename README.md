@@ -19,7 +19,7 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 ## My Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github,vs" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github,vscode" />
 </a>
 </p>
 
