@@ -10,6 +10,19 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
 </div>
 
+---
+
+## 🌟 Latest Project
+### [Focus.io - Clean Pomodoro Timer](https://github.com/ayoubabbadi/Focus.io)
+A clean, creative, and responsive Pomodoro timer designed to boost productivity. This application is built with **React** and demonstrates strong skills in component-based architecture and state management.
+
+| Key Technologies | Focus | Status |
+| :--- | :--- | :--- |
+| **React, JavaScript** | Productivity Tool | Live/Active |
+| **CSS3** | Clean UI, Responsive Design | Complete |
+
+---
+
 ## Core Competencies
 - **Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
 - **Back-End Development (Learning):** Node.js
@@ -23,16 +36,21 @@ I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building 
 </a>
 </p>
 
+---
+
 ## My Guides & Challenges
-I believe the best way to learn is by building. Here are some of the guides and challenges I've created for other developers.
+I believe the best way to learn is by building. Here are some of the guides and challenges I've created for other developers to master modern web development techniques.
+* **[Advanced Portfolio Challenge](https://github.com/ayoubabbadi/Advanced-Portfolio-Challenge)**: A front-end challenge to build a modern, interactive portfolio using only a screenshot as a guide. (HTML, CSS, JS)
 * **[Decathlon CSS Challenge](https://github.com/ayoubabbadi/Decathlon-Landing-Page-CSS-Challenge)**: A portfolio-level challenge to recreate a complex store landing page using CSS Grid and Flexbox.
 * **[CSS Animation Challenges](https://github.com/ayoubabbadi/CSS-Animation-Challenges)**: A hands-on practice platform to test your CSS animation and transition skills.
 * **[React Learning Guide](https://github.com/ayoubabbadi/learn-react)**: A complete, single-file guide to React, from components and props to advanced hooks.
-* **[C Language Learning Guide](https://github.com/ayoubabbadi/c-learning-guide)**: A comprehensive guide to C, from "Hello World" to advanced topics like simulating OOP.
+* **[HTML/CSS Learning Hub](https://github.com/ayoubabbadi/HTML-CSS-Learning-Hub)**: A hands-on guide covering HTML tags, CSS layout (Flex, Grid), 3D transforms, and animations.
 
-##  Notable Achievements
+---
+
+##  Notable Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&amp;theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&amp;theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
 </div>
 
 ## GitHub Insights
@@ -49,13 +67,13 @@ I believe the best way to learn is by building. Here are some of the guides and 
 ## Let's Connect
 <div align="center">
 <a href="https://www.linkedin.com/in/ayoub-abbadi-87b07a362">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ayoubabbadi80@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/ayoubabbadi80/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <img src="https://img.shields.io/github/followers/ayoubabbadi?label=GitHub&amp;style=for-the-badge&amp;color=333" />
 </div>
