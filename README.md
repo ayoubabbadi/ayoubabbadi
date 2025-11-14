@@ -12,7 +12,7 @@ I'm a **Full-Stack Developer** from El Jadida, Morocco. I specialize in building
 
 ---
 
-##  Latest Project
+## Latest Project
 ### [Focus.io - Clean Pomodoro Timer](https://github.com/ayoubabbadi/Focus.io)
 A clean, creative, and responsive Pomodoro timer designed to boost productivity. This application is built with **React** and demonstrates strong skills in component-based architecture and state management.
 
@@ -49,7 +49,7 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ---
 
-##  Notable Achievements
+## Notable Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayoubabbadi&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
 </div>
