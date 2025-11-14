@@ -3,16 +3,16 @@
 </p>
 
 ## About Me
-I'm a **Front-End Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
-> I'm currently expanding my skills into the back-end with **Node.js** and am open to collaborating on interesting React or Node.js projects.
+I'm a **Full-Stack Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
+> I'm proficient in both front-end (**React**) and back-end (**Node.js**) development. I am open to collaborating on interesting React or Node.js projects.
 > You can reach me at: [**ayoubabbadi80@gmail.com**](mailto:ayoubabbadi80@gmail.com)
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full-Stack+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Node.js+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
-##  Latest Project
+##  Latest Project
 ### [Focus.io - Clean Pomodoro Timer](https://github.com/ayoubabbadi/Focus.io)
 A clean, creative, and responsive Pomodoro timer designed to boost productivity. This application is built with **React** and demonstrates strong skills in component-based architecture and state management.
 
@@ -25,14 +25,15 @@ A clean, creative, and responsive Pomodoro timer designed to boost productivity.
 
 ## Core Competencies
 - **Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
-- **Back-End Development (Learning):** Node.js
+- **Back-End Development:** Node.js
+- **Mobile Development:** Kotlin, Android Studio
 - **General Programming:** Python, C
 - **Tools & Version Control:** Git & GitHub, VS Code
 
 ## My Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,kotlin,androidstudio,html,css,python,c,git,github,vscode" />
 </a>
 </p>
 
