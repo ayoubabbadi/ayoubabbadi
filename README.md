@@ -37,7 +37,7 @@ A clean, creative, and responsive Pomodoro timer designed to boost productivity.
 </a>
 </p>
 
----
+
 
 ## My Guides & Challenges
 I believe the best way to learn is by building. Here are some of the guides and challenges I've created for other developers to master modern web development techniques.
