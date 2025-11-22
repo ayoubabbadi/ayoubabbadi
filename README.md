@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:FF0000,100:000000&amp;text=Hi!%20Welcome%20to%20My%20GitHub!&amp;fontAlign=30&amp;fontAlignY=30&amp;fontColor=ffffff&amp;fontSize=30&amp;desc=Ayoub+%7C+Where+Creative+Solutions+Meet+Clean+Code&amp;descAlign=75&amp;descAlignY=50&amp;descSize=15" width="100%" />
 </p>
 
+
 ## About Me
 I'm a **Full-Stack Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
 > I'm proficient in both front-end (**React**) and back-end (**Node.js**) development. I am open to collaborating on interesting React or Node.js projects.
