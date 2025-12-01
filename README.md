@@ -56,12 +56,6 @@ I believe the best way to learn is by building. Here are guides I've created to 
 
 ---
 
-##  Beyond Coding
-When I'm not debugging code or wiring sensors, you can find me:
-*  Reading about **Psychology & Science**.
-*  Gaming on PC.
-
----
 
 ##  GitHub Insights
 <div align="center">
