@@ -8,8 +8,11 @@ I'm a **Full-Stack Developer** and **IoT Enthusiast** based in El Jadida, Morocc
 I specialize in bridging the gap between software and hardware, building clean web applications, and experimenting with embedded systems. 
 
 >  **Status:** Actively seeking **Web Development Internship** opportunities in Morocco.
+
 >  **Highlight:** Participated in several tech competitions and achieved excellent scores.
+
 >  I'm proficient in **React, Node.js, and Java Spring Boot**, with a growing passion for **Embedded C & Python**.
+
 >  Reach me at: [**ayoubabbadi80@gmail.com**](mailto:ayoubabbadi80@gmail.com)
 
 <div align="center">
