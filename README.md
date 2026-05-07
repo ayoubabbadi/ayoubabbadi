@@ -37,7 +37,7 @@ A clean, creative, and responsive Pomodoro timer designed to boost productivity.
 
 ---
 
-## 🛠️ Core Competencies
+##  Core Competencies
 - **Front-End:** React, JavaScript, Tailwind CSS, HTML5, CSS3
 - **Back-End:** Node.js, PHP, Java (Spring Boot)
 - **IoT & Embedded:** Arduino, ESP32, Raspberry Pi, MQTT Protocols
